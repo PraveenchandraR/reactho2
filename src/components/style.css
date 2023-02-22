@@ -1,0 +1,48 @@
+.mainbody {
+  background-image: linear-gradient(lightblue, lightpink);
+  height: 800px;
+}
+.text {
+  margin-top: 10px;
+  border: 1px soild red;
+  border-radius: 10px;
+  width: 300px;
+  height: 30px;
+  background-color: aqua;
+  text-align: center;
+}
+.sub {
+  margin-top: 10px;
+  width: 100px;
+  height: 30px;
+  background-color: aquamarine;
+  border-radius: 10px;
+}
+tbody {
+  margin: 10px;
+}
+td {
+  margin-left: 20px;
+  border-radius: 10px;
+  background-color: rgb(244, 122, 142);
+  font-size: 28px;
+  padding: 4px;
+  border: 2px solid black;
+  width: 400px;
+  height: 80px;
+  text-align: center;
+}
+.details {
+  position: relative;
+  border: 2px soild black;
+  width: 1000px;
+  background-color: rgb(138, 195, 245);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.table {
+  display: flex;
+  justify-content: center;
+}
